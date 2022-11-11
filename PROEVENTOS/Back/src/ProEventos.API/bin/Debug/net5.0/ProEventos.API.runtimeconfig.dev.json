@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Bia-R\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Bia-R\\.nuget\\packages"
+    ]
+  }
+}
